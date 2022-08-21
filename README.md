@@ -15,6 +15,8 @@ Desafio proposto no programa Explorer da Rocketseat, a proposta era desenvolver 
 ## Deploy
 
  https://sprightly-choux-ab2d6e.netlify.app/
+ 
+## Overview
 
-
+<img src="https://github.com/jscloneski/Rocketsect/blob/main/Rocket-sect.jpeg" alt="Rocket-sect. Overview">
 
